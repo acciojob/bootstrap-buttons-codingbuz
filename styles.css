@@ -1,2 +1,51 @@
 
 /* Your CSS Code here. */
+.blue{
+		background-color:blue;
+	color:white;
+	border:0px;
+}
+.white{
+		background-color:white;
+	color:black;
+/* 	border:px; */
+}
+.green{
+		background-color:green;
+	color:white;
+	border:0px;
+}
+.red{
+		background-color:red;
+	color:white;
+	border:0px;
+}
+.yellow{
+		background-color:yellow;
+	color:black;
+    width:100%;
+	border:0px;
+}
+.sky{
+		background-color:deepskyblue;
+	color:gray;
+	border:0px;
+}
+.white1{
+		background-color:white;
+	color:black;
+	border:0px;
+}
+.an{
+	border:0px;
+}
+
+
+
+
+
+
+
+
+
+
